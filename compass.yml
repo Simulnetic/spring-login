@@ -1,0 +1,13 @@
+name: spring-login
+id: ari:cloud:compass:d926c5b6-8500-4cc0-ae8b-e0b5c4afa665:component/c0bc404a-5512-475b-abf0-d55726924092/c95743ee-0575-4b76-a93a-a291dc305ca4
+description: Authentication process using Spring Boot and MySQL
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
